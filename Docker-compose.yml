@@ -7,4 +7,4 @@ services:
   forntend:
     image: thanaphat14/lab10.2
     ports:
-      - 8080:80
+      - 8085:80
