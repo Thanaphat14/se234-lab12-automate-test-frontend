@@ -5,6 +5,6 @@ services:
     ports:
       - 8082:8080
   forntend:
-    image: thanaphat14/lab12
+    image: thanaphat14/lab10.2
     ports:
       - 8080:80
