@@ -9,6 +9,6 @@ services:
         source: /home/ubuntu/data
         target: /data
   forntend:
-    image: thanaphat14/lab10.2
+    image: thanaphat14/lab10.3
     ports:
       - 8080:80
